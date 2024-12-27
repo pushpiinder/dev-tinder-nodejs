@@ -37,8 +37,12 @@
 - Create a free cluster on MongoDB official website (Mongo Atlas)
 - Install mongoose library
 - Connect your application to the Database "Connection-url"/devTinder
-- Call the connectDB function and connect to database before starting application on 7777
+- Call the connectDB function and connect to database before starting application on 7777/3000
 - Create a userSchema & user Model
 - Create POST /sigup API to add data to database
 - Push some documents using API calls from postman
 - Error Handling using try , catch
+
+- JS object vs JSON (difference)
+- Add the express.json middleware to your app
+- Make your signup API dynamic to recive data from the end user
